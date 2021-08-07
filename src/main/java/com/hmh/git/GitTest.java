@@ -1,0 +1,11 @@
+package com.hmh.git;
+
+/**
+ * @author byyddyh
+ */
+public class GitTest {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
